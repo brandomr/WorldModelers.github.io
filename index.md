@@ -141,4 +141,3 @@ Supported qualitative analysis types in Causemos include:
 -   Similar models/data comparison
 
 ![Scenario Comparison](images/causemos/image9.jpg)
-
